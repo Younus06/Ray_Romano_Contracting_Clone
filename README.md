@@ -23,5 +23,5 @@ The purpose of this project is to build hands-on experience in developing clean,
 - Responsive design (optional, if implemented)
 - Static representation of the original Ray Romano Contracting webpage
 
-## 📂 Project Structure
+
 
