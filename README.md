@@ -13,14 +13,14 @@ The purpose of this project is to build hands-on experience in developing clean,
 
 - HTML5
 - CSS3 (Flexbox, Grid)
-- Google Fonts (if used)
-- Font Awesome (if used)
+- Google Fonts 
+- Font Awesome 
 
 ## 💡 Features
 
 - Structured and semantic HTML
 - Custom styling with external CSS
-- Responsive design (optional, if implemented)
+- Responsive design 
 - Static representation of the original Ray Romano Contracting webpage
 
 
